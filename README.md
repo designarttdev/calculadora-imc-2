@@ -28,7 +28,7 @@
 
 <div style="display: flex; gap: 10px;">
     <img style="width: 400px; height: auto;" src="https://github.com/designarttdev/calculadora-imc-2/blob/main/Print.jpg" alt="Primeira tela">
-    <img style="width: 400px; height: auto;" src="https://github.com/designarttdev/calculadora-imc-2/blob/main/Print2.jpg" alt="Primeira tela">
+    <img style="width: 400px; height: auto;" src="https://github.com/designarttdev/calculadora-imc-2/blob/main/Print2.jpg" alt="Segunda tela">
 </div>
 
 #### -- Estudo
